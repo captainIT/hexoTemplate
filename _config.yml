@@ -1,11 +1,11 @@
-title: WORLD PEACE
+title: 世界和平
 subtitle: ''
 description: ''
 keywords: null
-author: captainIt
+author: ''
 language: en
 timezone: ''
-url: https://captainit.github.io/
+# url: https://github.com/captainIT
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
