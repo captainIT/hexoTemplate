@@ -4,8 +4,8 @@ description: ''
 keywords: null
 author: ''
 language: en
-timezone: ''
-# url: https://github.com/captainIT
+timezone: Asia/Shanghai
+url: https://captainit.github.io
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -62,5 +62,5 @@ ignore: null
 theme: icarus
 deploy:
   type: git
-  repository: git@github.com:captainIT/captainIT.github.io.git
+  repo: git@github.com:captainIT/captainIT.github.io.git
   branch: main

@@ -13,4 +13,5 @@ coverage/
 dist/
 public
 .deploy_git
+db.json
 .history
