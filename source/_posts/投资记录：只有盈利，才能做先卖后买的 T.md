@@ -7,10 +7,10 @@ tags:
   - 记录
 categories:
   - 生活记录
-thumbnail: /img/2026-09-10-cover-574a4ff4.png
+thumbnail: /img/2026-09-10-sell-half-t-lesson-cover-574a4ff4.png
 ---
 
-![封面](/img/2026-09-10-cover-574a4ff4.png)
+![封面](/img/2026-09-10-sell-half-t-lesson-cover-574a4ff4.png)
 
 市场不会因为你害怕就放慢脚步，也不会因为你后悔就倒带回放。能带走的，只有这一次下单时心里那句话——写下来，下次才不会再被同一种情绪推着走。
 
