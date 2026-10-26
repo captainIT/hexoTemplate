@@ -5,9 +5,8 @@ excerpt: "美年健康继续做 T，成本来到 4.53。华兰疫苗一直关注
 tags:
   - 投资记录
   - 记录
-  - 生活记录
 categories:
-  - 生活记录
+  - 投资记录
 thumbnail: /img/2026-10-21-meinian-453-missed-hualan-chase-runze-cover-f7f868c2.png
 ---
 

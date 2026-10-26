@@ -5,9 +5,8 @@ excerpt: "医药大涨。美年 4.44 买、4.48 卖，成本降到 4.8。不满�
 tags:
   - 投资记录
   - 记录
-  - 生活记录
 categories:
-  - 生活记录
+  - 投资记录
 thumbnail: /img/2026-09-21-meinian-t-patience-cover-d9bb2fe9.png
 ---
 

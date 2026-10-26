@@ -5,9 +5,8 @@ excerpt: "上午融资买的陕天然气，下午卖出做 T 成功，赚 2 分�
 tags:
   - 投资记录
   - 记录
-  - 生活记录
 categories:
-  - 生活记录
+  - 投资记录
 thumbnail: /img/2026-10-22-shaanxi-gas-t-win-hang-seng-tech-finance-loss-cover-8be2e439.png
 ---
 

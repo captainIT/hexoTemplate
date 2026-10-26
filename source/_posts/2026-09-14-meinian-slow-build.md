@@ -5,9 +5,8 @@ excerpt: "美年健康成本 4.82，今天 4.57，被套 5.32%。开盘买入、
 tags:
   - 投资记录
   - 记录
-  - 生活记录
 categories:
-  - 生活记录
+  - 投资记录
 thumbnail: /img/2026-09-14-meinian-slow-build-cover-a2b701e5.png
 ---
 

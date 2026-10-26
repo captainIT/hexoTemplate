@@ -5,9 +5,8 @@ excerpt: "半年报窗口刚过。陕天然气低预期、先减后抄；云铝�
 tags:
   - 投资记录
   - 记录
-  - 生活记录
 categories:
-  - 生活记录
+  - 投资记录
 thumbnail: /img/2026-08-28-earnings-window-record-cover-44934fec.png
 ---
 

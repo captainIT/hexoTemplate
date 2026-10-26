@@ -5,9 +5,8 @@ excerpt: "今天清空美年健康，落袋 6%，算是为昨天融资加仓追�
 tags:
   - 投资记录
   - 记录
-  - 生活记录
 categories:
-  - 生活记录
+  - 投资记录
 thumbnail: /img/2026-10-22-clear-meinian-pay-runze-finance-shaanxi-gas-cover-0c00066b.png
 ---
 

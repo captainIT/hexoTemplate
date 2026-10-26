@@ -5,9 +5,8 @@ excerpt: "今天买了几手重庆啤酒。白酒涨得不错，感觉啤酒也�
 tags:
   - 投资记录
   - 记录
-  - 生活记录
 categories:
-  - 生活记录
+  - 投资记录
 thumbnail: /img/2026-10-26-chongqing-beer-bottom-cover-fd425c07.png
 ---
 
