@@ -5,6 +5,7 @@ excerpt: "华兰疫苗拿了约半个月，做 T 后收益 15%。等了几日的
 tags:
   - 投资记录
   - 记录
+  - 生活记录
 categories:
   - 生活记录
 thumbnail: /img/2026-09-30-clear-and-wait-cover-49744eeb.png

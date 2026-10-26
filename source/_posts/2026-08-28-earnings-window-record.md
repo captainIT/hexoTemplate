@@ -5,12 +5,13 @@ excerpt: "半年报窗口刚过。陕天然气低预期、先减后抄；云铝�
 tags:
   - 投资记录
   - 记录
+  - 生活记录
 categories:
   - 生活记录
-thumbnail: /img/2026-08-28-cover-44934fec.png
+thumbnail: /img/2026-08-28-earnings-window-record-cover-44934fec.png
 ---
 
-![封面](/img/2026-08-28-cover-44934fec.png)
+![封面](/img/2026-08-28-earnings-window-record-cover-44934fec.png)
 
 投资最怕事后只记得涨跌，不记得当时为什么动手。这篇把时间、标的和理由写下来。对的对照，错的也留着。不是荐股，是自己的交易笔记。
 

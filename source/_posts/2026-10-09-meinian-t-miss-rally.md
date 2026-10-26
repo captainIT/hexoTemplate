@@ -5,6 +5,7 @@ excerpt: "美年健康今天大涨 8.4%。上午做 T，错过了下午的拉升
 tags:
   - 投资记录
   - 记录
+  - 生活记录
 categories:
   - 生活记录
 thumbnail: /img/2026-10-09-meinian-t-miss-rally-cover-c803e884.png

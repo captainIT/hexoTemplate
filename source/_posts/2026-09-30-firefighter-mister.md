@@ -4,6 +4,7 @@ date: 2026-09-30 09:50:59
 excerpt: "儿子今年五岁，上了大班。自己走、自己穿衣服，早起不哭了。最爱消防车和消防站的自动门。不太进小孩堆，但有了大宝和小宝两个朋友。"
 tags:
   - 记录
+  - 生活记录
 categories:
   - 生活记录
 thumbnail: /img/2026-09-30-firefighter-mister-cover-45a3735d.png

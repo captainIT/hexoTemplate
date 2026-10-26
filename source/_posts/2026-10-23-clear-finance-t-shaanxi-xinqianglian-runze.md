@@ -5,6 +5,7 @@ excerpt: "今天清空了所有融资。陕天然气 T 出 2 分，新强联卖�
 tags:
   - 投资记录
   - 记录
+  - 生活记录
 categories:
   - 生活记录
 thumbnail: /img/2026-10-23-clear-finance-t-shaanxi-xinqianglian-runze-cover-b9d99f5c.png

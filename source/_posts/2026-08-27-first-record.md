@@ -7,12 +7,13 @@ tags:
   - 程序员
   - 投资记录
   - 记录
+  - 生活记录
 categories:
   - 生活记录
-thumbnail: /img/2026-08-27-cover.png
+thumbnail: /img/2026-08-27-first-record-cover-135afe72.png
 ---
 
-![封面](/img/2026-08-27-cover.png)
+![封面](/img/2026-08-27-first-record-cover-135afe72.png)
 
 人走得太快，会把沿途的自己弄丢。写下来，不是为了证明过得有多好，是为了以后还能认出来：原来那一年，我是这样过的。
 

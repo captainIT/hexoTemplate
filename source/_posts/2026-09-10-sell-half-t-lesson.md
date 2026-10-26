@@ -5,6 +5,7 @@ excerpt: "陕天然气大涨后卖了半仓，错过随后连涨，至今没回�
 tags:
   - 投资记录
   - 记录
+  - 生活记录
 categories:
   - 生活记录
 thumbnail: /img/2026-09-10-sell-half-t-lesson-cover-574a4ff4.png
